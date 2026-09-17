@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Ahoj světe!" 
 hello World!
+=======
+"Ah" 
+>>>>>>> df48b83368d68eabfc4743bf8b782ebc5c8bff65
